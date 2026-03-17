@@ -1,16 +1,15 @@
-# URL do site criado: https://minemaker.github.io/site-proficiencia/
+# URL do site criado:
+https://minemaker.github.io/site-proficiencia/
 
 --------
 
 # Como executar, caso não queira acessar URL:
 Clonar repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-
-# Entrar no diretório
-cd NOME-DO-REPO
-
-# Abrir no navegador
-xdg-open index.html
+1. git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+Entrar no diretório
+2. cd NOME-DO-REPO
+Abrir no navegador
+3. xdg-open index.html
 
 --------
 
