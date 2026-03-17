@@ -5,9 +5,9 @@ https://minemaker.github.io/site-proficiencia/
 
 # Como executar, caso não queira acessar URL:
 Clonar repositório
-1. git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+1. git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git<br>
 Entrar no diretório
-2. cd NOME-DO-REPO
+2. cd NOME-DO-REPO<br>
 Abrir no navegador
 3. xdg-open index.html
 
